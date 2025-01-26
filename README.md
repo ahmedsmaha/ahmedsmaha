@@ -18,7 +18,7 @@
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
   <p align="left">
-    <img src="https://skills-icons.vercel.app/api/icons?i=cpp,py,nodejs,express,postgresql,mongodb,html,css,sass,bootstrap,tailwind,js,ts,jquery,angular,rxjs,aws,npm,webpack,git,github,postman,figma,swagger,vscode,docker,latex,md&perline=13"/>
+    <img src="https://skills-icons.vercel.app/api/icons?i=cpp,py,nodejs,express,postgresql,mongodb,html,css,sass,bootstrap,tailwind,js,ts,jquery,angular,rxjs,aws,npm,webpack,git,github,postman,figma,swagger,vscode,docker,servicenow,md&perline=13"/>
   </p>
 
 <h3 align="left">🏆 GitHub Trophies:</h3>
